@@ -40,7 +40,7 @@ if(isset($_POST['submit'])){
 <body>
     <header>
         <div class="judul">
-            <img src="images/logo.png" alt="Starbucks" width="90px">
+            <img src="Images/logo.png" alt="Starbucks" width="90px">
             <h1>Edit Product</h1>
         </div>
     </header>

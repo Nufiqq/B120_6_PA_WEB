@@ -25,7 +25,7 @@
 <body>
     <header>
         <div class="judul">
-            <img src="images/logo.png" alt="Starbucks" width="90px">
+            <img src="Images/logo.png" alt="Starbucks" width="90px">
             <h1>Admin</h1>
         </div>
         <div class="nav">
