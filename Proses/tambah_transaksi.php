@@ -15,6 +15,6 @@
 
     unset($_SESSION["cart"]);
 
-    header("location:../cart.php")
+    header("location:../transaksi.php")
     
 ?>
